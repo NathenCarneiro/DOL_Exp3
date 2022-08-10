@@ -1,0 +1,17 @@
+4. Prerequisite: Knowledge of software engineering concept of version control
+5. Requirements: Git, Personal Computer, Windows operating system, browser, Internet
+Connection, Microsoft Word.
+6. Pre-Experiment Exercise:
+Brief Theory: Refer shared material
+7. Laboratory Exercise
+A. Procedure:
+a. Answer the following:
+ Give differences between Git and GitHub
+ What is Git Cheat sheet?
+ Attach sample Git Cheat sheet
+b. Execute following on Git and GitHub (Refer the shared material) and
+attach screenshots:
+ Create a repository in GitHub
+ Create a branch on repository
+ Fork, push and Pull request
+ Fetch and merge on Git
