@@ -1,0 +1,13 @@
+8. Post-Experiments Exercise
+A. Extended Theory:
+Nil
+B. Questions:
+ What are the different Git workflow strategies in real-time scenarios?
+ What are the different Git IDEs available?
+C. Conclusion:
+ Write what was performed in the experiment.
+ Write the significance of the topic studied in the experiment.
+D. References:
+https://github.com/
+https://guides.github.com/activities/hello-world/
+https://git-scm.com/docs/gittutorial
